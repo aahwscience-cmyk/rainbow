@@ -2,5 +2,6 @@ Red is the first color of the rainbow
 "Vermelho é a primeira cor do Arco-íris"
 Orange is the second color of the rainbow
 "Laranja é a Segunda cor do arco-iris"xx
-
+Yellow is the Third color of the rainbow
+"Amarelo é a terceira cor do Arco-iris"
 
